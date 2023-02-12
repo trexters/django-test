@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e1h_omrq7*ugannpw^5k1g3fgs5%69st3=*x0c17!w!*n6%i6j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["http://french-charge-oin.domcloud.io/"]
 
 
 # Application definition
